@@ -21,8 +21,6 @@
  */
 package org.jboss.ee.tutorial.jaxrs.server;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
 /**
  * A simple JAX-RS resource
  * 
